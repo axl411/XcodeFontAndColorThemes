@@ -1,0 +1,1 @@
+Xcode font and color themes backup, location: `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
